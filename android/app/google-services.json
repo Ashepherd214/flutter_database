@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "667722283888",
+    "firebase_url": "https://fir-for-flutter-7ec64.firebaseio.com",
+    "project_id": "fir-for-flutter-7ec64",
+    "storage_bucket": "fir-for-flutter-7ec64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667722283888:android:7a696422d9098fb3",
+        "android_client_info": {
+          "package_name": "com.skyylife.flutterdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667722283888-gl850s6dtelj9s4vc7sjdeoui1k12ds8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhML7UPlPiGhxicP23qtwuh_0NMPbgBmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
